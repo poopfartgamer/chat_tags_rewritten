@@ -1,0 +1,51 @@
+{
+  "Ye": {
+    "The College Dropout": {
+      "Color": {"R": 232, "G": 152, "B": 46}
+    },
+    "Late Registration": {
+      "Color": {"R": 195, "G": 171, "B": 20}
+    },
+    "Graduation": {
+      "Color": {"R": 178, "G": 81, "B": 134}
+    },
+    "808's and Heartbreak": {
+      "Color": {"R": 194, "G": 206, "B": 206}
+    },
+    "My Beautiful Dark Twisted Fantasy": {
+      "Color": {"R": 242, "G": 39, "B": 76}
+    },
+    "Yeezus": {
+      "Color": {"R": 238, "G": 238, "B": 238}
+    },
+    "The Life of Pablo": {
+      "Color": {"R": 245, "G": 139, "B": 87}
+    },
+    "Ye": {
+      "Color": {"R": 19, "G": 242, "B": 53}
+    },
+    "Donda": {
+      "Color": {"R": 11, "G": 11, "B": 11}
+    }
+  },
+  "Tyler": {
+    "Goblin": {
+      "Color": {"R": 164, "G": 50, "B": 166}
+    },
+    "Wolf": {
+      "Color": {"R": 125, "G": 185, "B": 231}
+    },
+    "Cherry Bomb": {
+      "Color": {"R": 254, "G": 1, "B": 128}
+    },
+    "Flower Boy": {
+      "Color": {"R": 252, "G": 105, "B": 23}
+    },
+    "Igor": {
+      "Color": {"R": 238, "G": 164, "B": 187}
+    },
+    "CMIYGL": {
+      "Color": {"R": 249, "G": 239, "B": 206}
+    }
+  }
+}
