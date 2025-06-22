@@ -1,51 +1,46 @@
 {
   "Ye": {
-    "The College Dropout": {
-      "Color": {"R": 232, "G": 152, "B": 46}
-    },
-    "Late Registration": {
-      "Color": {"R": 195, "G": 171, "B": 20}
-    },
-    "Graduation": {
-      "Color": {"R": 178, "G": 81, "B": 134}
-    },
-    "808's and Heartbreak": {
-      "Color": {"R": 194, "G": 206, "B": 206}
-    },
-    "My Beautiful Dark Twisted Fantasy": {
-      "Color": {"R": 242, "G": 39, "B": 76}
-    },
-    "Yeezus": {
-      "Color": {"R": 238, "G": 238, "B": 238}
-    },
-    "The Life of Pablo": {
-      "Color": {"R": 245, "G": 139, "B": 87}
-    },
-    "Ye": {
-      "Color": {"R": 19, "G": 242, "B": 53}
-    },
-    "Donda": {
-      "Color": {"R": 11, "G": 11, "B": 11}
-    }
+    "The College Dropout": { "Color": { "R": 232, "G": 152, "B": 46 } },
+    "Late Registration": { "Color": { "R": 195, "G": 171, "B": 20 } },
+    "Graduation": { "Color": { "R": 178, "G": 81, "B": 134 } },
+    "808's and Heartbreak": { "Color": { "R": 194, "G": 206, "B": 206 } },
+    "My Beautiful Dark Twisted Fantasy": { "Color": { "R": 242, "G": 39, "B": 76 } },
+    "Yeezus": { "Color": { "R": 238, "G": 238, "B": 238 } },
+    "The Life of Pablo": { "Color": { "R": 245, "G": 139, "B": 87 } },
+    "Ye": { "Color": { "R": 19, "G": 242, "B": 53 } },
+    "Donda": { "Color": { "R": 11, "G": 11, "B": 11 } }
   },
   "Tyler": {
-    "Goblin": {
-      "Color": {"R": 164, "G": 50, "B": 166}
-    },
-    "Wolf": {
-      "Color": {"R": 125, "G": 185, "B": 231}
-    },
-    "Cherry Bomb": {
-      "Color": {"R": 254, "G": 1, "B": 128}
-    },
-    "Flower Boy": {
-      "Color": {"R": 252, "G": 105, "B": 23}
-    },
-    "Igor": {
-      "Color": {"R": 238, "G": 164, "B": 187}
-    },
-    "CMIYGL": {
-      "Color": {"R": 249, "G": 239, "B": 206}
-    }
+    "Goblin": { "Color": { "R": 164, "G": 50, "B": 166 } },
+    "Wolf": { "Color": { "R": 125, "G": 185, "B": 231 } },
+    "Cherry Bomb": { "Color": { "R": 254, "G": 1, "B": 128 } },
+    "Flower Boy": { "Color": { "R": 252, "G": 105, "B": 23 } },
+    "Igor": { "Color": { "R": 238, "G": 164, "B": 187 } },
+    "CMIYGL": { "Color": { "R": 249, "G": 239, "B": 206 } }
+  },
+  "JuiceWRLD": {
+    "Goodbye & Good Riddance": { "Color": { "R": 20, "G": 20, "B": 20 } },
+    "Death Race for Love": { "Color": { "R": 255, "G": 0, "B": 0 } },
+    "Legends Never Die": { "Color": { "R": 85, "G": 124, "B": 170 } },
+    "Fighting Demons": { "Color": { "R": 145, "G": 90, "B": 120 } }
+  },
+  "Travis": {
+    "Rodeo": { "Color": { "R": 80, "G": 80, "B": 80 } },
+    "Birds in the Trap Sing McKnight": { "Color": { "R": 30, "G": 30, "B": 30 } },
+    "Astroworld": { "Color": { "R": 245, "G": 180, "B": 80 } },
+    "Utopia": { "Color": { "R": 0, "G": 0, "B": 0 } }
+  },
+  "Kendrick": {
+    "Section.80": { "Color": { "R": 212, "G": 147, "B": 91 } },
+    "good kid, m.A.A.d city": { "Color": { "R": 129, "G": 143, "B": 130 } },
+    "To Pimp a Butterfly": { "Color": { "R": 76, "G": 76, "B": 76 } },
+    "DAMN.": { "Color": { "R": 154, "G": 0, "B": 0 } },
+    "Mr. Morale & The Big Steppers": { "Color": { "R": 230, "G": 230, "B": 230 } },
+    "GNX": { "Color": { "R": 100, "G": 100, "B": 255 } }
+  },
+  "Carti": {
+    "Die Lit": { "Color": { "R": 20, "G": 20, "B": 20 } },
+    "Whole Lotta Red": { "Color": { "R": 180, "G": 0, "B": 0 } },
+    "I AM MUSIC": { "Color": { "R": 255, "G": 111, "B": 255 } }
   }
 }
